@@ -1,0 +1,9 @@
+{
+	"name": "localization",
+	"description": "A module providing localization support and a connect middleware doing per-request localization based on the Accept-Language header",
+	"version": "0.0.1",
+	"contributors": [
+		{ "name": "Arpad Borsos (Swatinem)", "email": "arpad.borsos@googlemail.com" }
+	],
+	"devDependencies": { "connect": "*", "mocha": "*", "supertest": "*" }
+}
